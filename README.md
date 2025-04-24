@@ -11,4 +11,4 @@ All content in this repository is licensed under the
 Please credit:
 
 **The FirstLight Initiative**  
-[https://trustandsecure.ai](https://trustandsecure.ai](https://www.ailiteracyforeveryone.org))
+[https://www.ailiteracyforeveryone.org](https://www.ailiteracyforeveryone.org)
