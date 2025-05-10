@@ -1,5 +1,5 @@
 # firstlight
-A public initiative to help anyone begin using AI—starting with simple prompts and growing toward fluency.  
+AI is changing everything. FirstLight helps you start—not with fear, but with confidence. From first prompt to fluency, this public initiative is here to guide the way.
 
 ![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)
 
