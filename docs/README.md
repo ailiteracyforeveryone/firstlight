@@ -1,4 +1,4 @@
-# 📘 FirstLight Documentation, Reading Material, Presentations and White Papers
+# 📘 Free Documentation, Reading Material, Presentations and White Papers
 
 This folder contains foundational documents that explain the "why" behind the FirstLight Initiative, and how anyone can begin engaging with AI meaningfully and safely.
 
