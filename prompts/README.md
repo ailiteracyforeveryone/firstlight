@@ -13,7 +13,7 @@ These prompts turn tools like ChatGPT into thinking partners, not search engines
 
 ## 🚀 How to Use
 1. Open ChatGPT.
-2. Copy and paste a prompt into the chat.
+2. Copy and paste a prompt into the chat (the text block below "Prompt to Copy")
 3. Start typing what’s on your mind—even if it’s messy or unclear.
 
 > No instructions needed. Just drop in and begin.
