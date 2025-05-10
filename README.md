@@ -1,3 +1,6 @@
+** AI Literacy for Everyone Foundation **
+[https://www.ailiteracyforeveryone.org](https://www.ailiteracyforeveryone.org)
+
 # firstlight
 AI is changing everything. FirstLight helps you start—not with fear, but with confidence. From first prompt to fluency, this public initiative is here to guide the way.
 
