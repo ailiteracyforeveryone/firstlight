@@ -1,6 +1,6 @@
 # 🧠 FirstLight Prompts
 
-This folder contains curated, beginner-friendly prompts designed to help anyone start thinking with AI—clearly, calmly, and with confidence.
+This folder contains curated, beginner-friendly prompts designed to help anyone start thinking with AI — clearly, calmly, and with confidence.
 
 ## ✨ Purpose
 These prompts turn tools like ChatGPT into thinking partners, not search engines. They’re written to spark reflection, reduce fear, and guide meaningful exploration.
@@ -8,7 +8,8 @@ These prompts turn tools like ChatGPT into thinking partners, not search engines
 ## 📂 Files
 
 - **[My First Prompt](https://github.com/ailiteracyforeveryone/firstlight/blob/main/prompts/My_first_prompt.md)** - Your first interaction with AI.
-- This is your starting point. A drop-in prompt that **transforms AI into a gentle, clarifying thought partner**.
+- This is your **starting point**. A drop-in prompt that **transforms AI into a gentle, clarifying thought partner**.
+  
 - Future prompts will focus on **creativity, problem-solving, learning, and emotional processing.**
 
 ## 🚀 How to Use
@@ -16,4 +17,4 @@ These prompts turn tools like ChatGPT into thinking partners, not search engines
 2. Copy and paste a prompt into the chat (the text block below **"Prompt to Copy"**)
 3. Start typing what’s on your mind—even if it’s messy or unclear.
 
-> No instructions needed. Just drop in and begin.
+> **No instructions needed. Just drop in and begin.**
