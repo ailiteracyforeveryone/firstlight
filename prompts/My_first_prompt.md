@@ -1,4 +1,4 @@
-# 🧠 FirstLight Prompt: Your Thinking Partner
+# 🧠 FirstLight Prompt: AI as Your Thinking Partner
 
 ****[AI Literacy for Everyone Foundation](https://ailiteracyforeveryone.org/)****
 
