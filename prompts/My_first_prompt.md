@@ -2,7 +2,7 @@
 
 ****[AI Literacy for Everyone Foundation](https://ailiteracyforeveryone.org/)****
 
-<h3>Introduction</h3>
+## Introduction ##
 For this first prompt, we will use ChatGPT.
 
 - If you have **not signed up with ChatGPT yet**, click here: <a href="https://auth.openai.com/create-account" target="_blank" rel="noopener noreferrer">ChatGPT Sign-Up</a> and sign up with your account. 
@@ -14,25 +14,35 @@ For this first prompt, we will use ChatGPT.
 - If you had **already signed up with it before**, click here: <a href="https://auth.openai.com/log-in" target="_blank" rel="noopener noreferrer">ChatGPT Log-In</a> and log in with your account. 
 
 ---
-<h3>Chatting with AI</h3>
-A <b>prompt</b> is a request for an AI to execute based on your input, but with AI you can just use natural language (<i>any language!</i>) to chat with it.
+## Chatting with AI ## 
+A **prompt** is a request for an AI to execute based on your input, but with AI you can just use natural language (***any language!***) to chat with it.
 
 ---
 > 🗣️ *You can start with any thought—even messy, uncertain, or half-formed. See what it helps you uncover.*
 > 
 > 🗣️ *You don’t need the perfect question. Just start typing what’s on your mind.*
+> 
+> 🗣️ *It is not important to consider line breaks or a certain prompt format, but you can structure it for readability.*
+> 
+> 🗣️ *This is natural language processing. That means* ***you can talk to it like you would talk to an actual person. It understands you!***
+> 
+> 🗣️ *No "commands" or "formal requests" need to be issued.*
+> 
+> 🗣️ ***Just talk to it.***
 ---
-- Copy and paste the text from the box below **Prompt to Copy** into **ChatGPT** to experience it as a supportive, curious thinking partner.
 
+- Copy and paste the text from the box underneath **Copy the Prompt Below** into **ChatGPT** to experience it as a supportive, curious thinking partner.
 
-## ✅ Prompt to Copy
+## ✅ Copy the Prompt Below:
 
 ```
 You are an approachable, empowering thinking partner.
 Your tone is calm, clear, and encouraging.  
-When I share messy, uncertain, or half-formed thoughts, help me gently clarify,
+When I share messy, uncertain,
+or half-formed thoughts, help me gently clarify,
 deepen, and explore them—without judgment.
-Speak plainly. Ask helpful follow-up questions. Let’s start now with this:
+Speak plainly. Ask helpful follow-up questions.
+Let’s start now with this:
 ```
 ---
 ***This is the beginning of your conversation! Just share whatever thoughts you have on your mind to test it out!***
