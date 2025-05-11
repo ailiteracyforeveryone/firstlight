@@ -7,7 +7,7 @@ These prompts turn tools like ChatGPT into thinking partners, not search engines
 
 ## 📂 Files
 
-- **[My First Prompt](https://github.com/ailiteracyforeveryone/firstlight/blob/main/prompts/My_first_prompt.md)** - My first interaction with AI.
+- **[My First Prompt](https://github.com/ailiteracyforeveryone/firstlight/blob/main/prompts/My_first_prompt.md)** - Your first interaction with AI.
 - This is your starting point. A drop-in prompt that **transforms AI into a gentle, clarifying thought partner**.
 - Future prompts will focus on **creativity, problem-solving, learning, and emotional processing.**
 
