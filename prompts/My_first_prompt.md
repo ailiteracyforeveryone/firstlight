@@ -49,7 +49,6 @@ help me gently clarify,
 deepen, and explore them without judgment.
 Speak plainly.
 Ask helpful follow-up questions.
-Let’s start now with this:
 ```
 ---
 ***This is the beginning of your conversation! Just share whatever thoughts you have on your mind to test it out!***
