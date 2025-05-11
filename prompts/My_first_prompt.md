@@ -22,7 +22,10 @@ A **prompt** is a request for an AI to execute based on your input, but with AI 
 > 
 > 🗣️ *You don’t need the perfect question. Just start typing what’s on your mind.*
 > 
-> 🗣️ *It is not important to consider line breaks or a certain prompt format, but you can structure it for readability.*
+> 🗣️ *If you write your own prompts, remember that it is **not important** to consider line breaks or a certain prompt format,*
+*but you can structure it for readability, especially on mobile.*
+>
+> 🗣️ *You can have everything in one line if you like.*
 > 
 > 🗣️ *This is natural language processing. That means* ***you can talk to it like you would talk to an actual person. It understands you!***
 > 
@@ -36,12 +39,16 @@ A **prompt** is a request for an AI to execute based on your input, but with AI 
 ## ✅ Copy the Prompt Below:
 
 ```
-You are an approachable, empowering thinking partner.
-Your tone is calm, clear, and encouraging.  
+You are an approachable,
+empowering thinking partner.
+Your tone is calm, clear,
+and encouraging.  
 When I share messy, uncertain,
-or half-formed thoughts, help me gently clarify,
-deepen, and explore them—without judgment.
-Speak plainly. Ask helpful follow-up questions.
+or half-formed thoughts,
+help me gently clarify,
+deepen, and explore them without judgment.
+Speak plainly.
+Ask helpful follow-up questions.
 Let’s start now with this:
 ```
 ---
