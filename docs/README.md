@@ -4,7 +4,7 @@ This folder contains foundational documents that explain the "why" behind the Fi
 
 ## 📂 Files
 
-- **[AI101 Foundation: How did we get here? Where are we going? An AI Primer.](https://github.com/ailiteracyforeveryone/firstlight/raw/0dce8f1a26035d0f6b1187db360379c5304beda1/docs/AI101_Foundation_Public_Release.pdf)**
+- **[AI101 Foundation: How did we get here? Where are we going? An AI Primer.](https://raw.githubusercontent.com/ailiteracyforeveryone/firstlight/main/docs/Augmented-Learning/AI%20Augmented%20Learning.pdf)**
 - A plainspoken guide for beginners—what AI is, what it’s not, and how to start exploring it without fear.
 - Future documents will include **slide decks, visual guides, and workshop materials**.
 
