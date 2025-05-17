@@ -1,10 +1,9 @@
-# 📘 Free Documentation, Reading Material, Presentations and White Papers
+# 📘 AI-Augmented Learning
 
-This folder contains foundational documents that explain the "why" behind the FirstLight Initiative, and how anyone can begin engaging with AI meaningfully and safely.
+This folder contains foundational documents that discuss Use Cases around Augmented Learning.
 
 ## 📂 Files
 
-- The files discuss Use Cases around Augmented Learning
 - context: specifically, the documents discuss my efforts around building HS and College prep option paths for my daughter.
 
 ## 📎 Mission
