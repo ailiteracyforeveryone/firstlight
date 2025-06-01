@@ -10,7 +10,8 @@ This is a plainspoken guide for beginners—what AI is, what it’s not, and how
 - **[AI-Augmented Learning - The Pareto Optimization of Knowledge](https://github.com/ailiteracyforeveryone/firstlight/blob/main/docs/Augmented-Learning/Pareto-Principle/README.md)**  
 Using the Pareto Principle to focus only on the highest-value content, reducing cognitive load, improve clarity, and help people learn faster and more effectively.
 
-- **[Use Cases around Augmented Learning](https://github.com/ailiteracyforeveryone/firstlight/blob/main/docs/Augmented-Learning/README.md)**    These folder contain foundational documents that discuss Use Cases around Augmented Learning that are already possible **today**.
+- **[Use Cases around Augmented Learning](https://github.com/ailiteracyforeveryone/firstlight/blob/main/docs/Augmented-Learning/README.md)**\
+These folder contain foundational documents that discuss Use Cases around Augmented Learning that are already possible **today**.
   
 - Future documents will include **slide decks, visual guides, and workshop materials**.
   
