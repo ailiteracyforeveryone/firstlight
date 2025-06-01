@@ -4,7 +4,7 @@ This folder contains foundational documents that discuss using the Pareto Princi
 
 ## 📂 Files
 
-- **[AI-Augmented Learning - The Pareto Optimization of Knowledge](https://raw.githubusercontent.com/ailiteracyforeveryone/firstlight/main/docs/Augmented-Learning/Pareto-Principle/AI%20Augmented%20Learning.pdf)**
+- **[AI-Augmented Learning - The Pareto Optimization of Knowledge](https://raw.githubusercontent.com/ailiteracyforeveryone/firstlight/main/docs/Augmented-Learning/Pareto-Principle/AI%20Augmented%20Learning%20-%20The%20Pareto%20Optimization%20of%20Knowledge.pdf)**
 
   
 ## 📎 Mission
