@@ -4,11 +4,11 @@ This folder contains foundational documents that discuss Use Cases around Augmen
 
 ## 📂 Files
 
+- **[AI-Augmented Learning - The Pareto Optimization of Knowledge](https://github.com/ailiteracyforeveryone/firstlight/blob/main/docs/Augmented-Learning/Pareto-Principle/README.md)**
+
 - **[Use Case: HS Academies and Pathways](https://github.com/ailiteracyforeveryone/firstlight/blob/main/docs/Augmented-Learning/HS-Academies-and-Pathways/README.md)**
 
 - **[Use Case: HS Course Electives](https://github.com/ailiteracyforeveryone/firstlight/blob/main/docs/Augmented-Learning/HS-Course-Electives-Use%20Case/README.md)**
-
-- **[AI-Augmented Learning - The Pareto Optimization of Knowledge](https://github.com/ailiteracyforeveryone/firstlight/blob/main/docs/Augmented-Learning/Pareto-Principle/README.md)**
 
 - **[Use Case: Social Studies](https://github.com/ailiteracyforeveryone/firstlight/blob/main/docs/Augmented-Learning/Social-Studies-Use-Case/README.md)**
   
