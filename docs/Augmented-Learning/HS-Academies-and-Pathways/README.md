@@ -1,4 +1,4 @@
-# 📘 Use Case: HS Course Electives
+# 📘 Use Case: HS Academies and Pathways
 
 Highschools offer a vast selection of courses and electives. Many also offer academies and pathways for students to apply to. Once they are accepted, some electives are pre-determined and mandatory. 
 I worked with ChatGPT to produce an analysis to help students and families have a clear, comprehensive understanding of what such pathways offer, how they may or may not align with college goals, and what alternatives might also be worth considering.
