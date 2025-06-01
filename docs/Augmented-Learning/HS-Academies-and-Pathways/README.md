@@ -5,7 +5,7 @@ I worked with ChatGPT to produce an analysis to help students and families have 
 
 ## 📂 Files
 
-- **[Understanding High School Engineering Pathways: Exploring Value and Options](https://raw.githubusercontent.com/ailiteracyforeveryone/firstlight/main/docs/Augmented-Learning/HS-Course-Electives-Use%20Case/Understanding%20High%20School%20Engineering%20Pathways%20-%20Exploring%20Value%20and%20Options.pdf)**
+- **[Understanding High School Engineering Pathways: Exploring Value and Options](https://raw.githubusercontent.com/ailiteracyforeveryone/firstlight/main/docs/Augmented-Learning/HS-Academies-and-Pathways/Understanding%20High%20School%20Engineering%20Pathways%20-%20Exploring%20Value%20and%20Options.pdf)**
 
 
 ## 📎 Mission
