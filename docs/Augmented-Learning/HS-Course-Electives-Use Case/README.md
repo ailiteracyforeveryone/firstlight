@@ -6,7 +6,6 @@ I analyzed - with the help of GPT - what options for electives exist at our loca
 ## 📂 Files
 
 - **[High School Curriculum Options based on HS course offerings and interests](https://raw.githubusercontent.com/ailiteracyforeveryone/firstlight/main/docs/Augmented-Learning/HS-Course-Electives-Use%20Case/HS%20curriculum%20choices.pdf)**
-- **[Understanding High School Engineering Pathways: Exploring Value and Options](https://raw.githubusercontent.com/ailiteracyforeveryone/firstlight/main/docs/Augmented-Learning/HS-Course-Electives-Use%20Case/Understanding%20High%20School%20Engineering%20Pathways%20-%20Exploring%20Value%20and%20Options.pdf)**
 
 - **[High School Course Catalog - served as basis for analysis](https://raw.githubusercontent.com/ailiteracyforeveryone/firstlight/main/docs/Augmented-Learning/HS-Course-Electives-Use%20Case/pope-course-catalog-2025-26.9e1f5d108970.pdf)**
 
